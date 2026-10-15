@@ -1,0 +1,28 @@
+PUBLICAR ESTA TIENDA EN VERCEL
+==============================
+
+Este paquete está preparado para que index.html quede en la raíz del proyecto.
+
+OPCIÓN RECOMENDADA (desde GitHub):
+1. Descomprime este ZIP.
+2. Sube TODOS los archivos y carpetas de esta carpeta a un repositorio de GitHub.
+   Importante: index.html, productos.js, script.js, styles.css y la carpeta img
+   deben quedar en la raíz del repositorio, no dentro de otra carpeta.
+3. En Vercel, crea un proyecto nuevo e importa ese repositorio.
+4. En Configure Project, deja Framework Preset en Other.
+5. Deja Build Command vacío y Output Directory vacío (o usa la configuración estática por defecto).
+6. Pulsa Deploy.
+
+SI YA TIENES UN PROYECTO EN VERCEL:
+- En Project Settings > Build and Deployment, revisa Root Directory. Debe apuntar a la carpeta
+  que contiene directamente index.html. Si el repositorio tiene la tienda dentro de
+  tienda_natural_web/, selecciona esa carpeta como Root Directory.
+- Vuelve a hacer Deploy después de guardar.
+
+COMPROBAR LAS IMÁGENES:
+- Prueba directamente una imagen en tu dominio: /img/prod/p01.jpg
+- Si da 404, Vercel no está publicando la carpeta img o Root Directory está mal configurado.
+- Si abre la imagen, la ruta del archivo funciona y hay que revisar la consola del navegador.
+
+Esta web es estática; los pedidos se consultan por WhatsApp. El panel admin guarda cambios
+solo en el navegador actual (localStorage), no sincroniza cambios entre visitantes.
