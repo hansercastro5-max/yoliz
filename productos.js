@@ -4,7 +4,7 @@ window.PRODUCTOS = [
   "name": "Emulsión de Bacalao Kids",
   "category": "Familia",
   "description": "Vitural · Omega 3-6-9 con vitaminas A, D y E. Sabor a naranja.",
-  "image": "img/prod/p01.png",
+  "image": "prod/p01.png",
   "price": null,
   "brand": "Vitural",
   "presentation": "500 ml · Sabor naranja",
@@ -21,14 +21,14 @@ window.PRODUCTOS = [
    "Vitaminas A, D y E",
    "Calcio y hierro"
   ],
-  "ficha": "img/ficha/f01.jpg"
+  "ficha": "ficha/f01.jpg"
  },
  {
   "id": 2,
   "name": "Prostalex",
   "category": "Bienestar",
   "description": "Con extracto de Saw Palmetto para el cuidado de la salud prostática.",
-  "image": "img/prod/p02.png",
+  "image": "prod/p02.png",
   "price": null,
   "brand": "Prostalex",
   "presentation": "40 cápsulas",
@@ -42,14 +42,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Extracto de Saw Palmetto"
   ],
-  "ficha": "img/ficha/f02.jpg"
+  "ficha": "ficha/f02.jpg"
  },
  {
   "id": 3,
   "name": "La Patrona",
   "category": "Bienestar",
   "description": "Suplemento líquido con ingredientes naturales para el bienestar femenino. 500 ml.",
-  "image": "img/prod/p03.png",
+  "image": "prod/p03.png",
   "price": null,
   "brand": "La Patrona",
   "presentation": "500 ml · Líquido",
@@ -62,14 +62,14 @@ window.PRODUCTOS = [
    "100% natural, de fácil absorción y sin químicos"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f03.jpg"
+  "ficha": "ficha/f03.jpg"
  },
  {
   "id": 4,
   "name": "Herbal Pro",
   "category": "Bienestar",
   "description": "Pro-herbal con ingredientes naturales para el bienestar prostático. 550 ml.",
-  "image": "img/prod/p04.jpg",
+  "image": "prod/p04.jpg",
   "price": null,
   "brand": "Herbal Pro",
   "presentation": "550 ml · Líquido",
@@ -88,14 +88,14 @@ window.PRODUCTOS = [
    "Perejil",
    "Cola de caballo"
   ],
-  "ficha": "img/ficha/f04.jpg"
+  "ficha": "ficha/f04.jpg"
  },
  {
   "id": 5,
   "name": "Biotina con Ácido Hialurónico",
   "category": "Cuidado personal",
   "description": "Quantum Pharma · Biotina y coenzima Q10 para cabello, piel y uñas.",
-  "image": "img/prod/p05.png",
+  "image": "prod/p05.png",
   "price": null,
   "brand": "Quantum Pharma",
   "presentation": "60 cápsulas de 720 mg · 1 al día",
@@ -115,14 +115,14 @@ window.PRODUCTOS = [
    "Ácido hialurónico",
    "Coenzima Q10"
   ],
-  "ficha": "img/ficha/f05.jpg"
+  "ficha": "ficha/f05.jpg"
  },
  {
   "id": 6,
   "name": "Vigor 36",
   "category": "Bienestar",
   "description": "Maximum Strength Booster. Suplemento líquido de 550 ml.",
-  "image": "img/prod/p06.png",
+  "image": "prod/p06.png",
   "price": null,
   "brand": "Vigor 36",
   "presentation": "550 ml · Líquido",
@@ -141,14 +141,14 @@ window.PRODUCTOS = [
    "Wild Root",
    "L-Arginina"
   ],
-  "ficha": "img/ficha/f06.jpg"
+  "ficha": "ficha/f06.jpg"
  },
  {
   "id": 7,
   "name": "Amebamac Forte",
   "category": "Digestivo",
   "description": "Labmac · Fórmula natural para el cuidado intestinal.",
-  "image": "img/prod/p07.png",
+  "image": "prod/p07.png",
   "price": null,
   "brand": "Labmac",
   "presentation": "Cápsulas",
@@ -161,14 +161,14 @@ window.PRODUCTOS = [
    "100% natural"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f07.jpg"
+  "ficha": "ficha/f07.jpg"
  },
  {
   "id": 8,
   "name": "Té Divina",
   "category": "Bienestar",
   "description": "Natural Medix · Té 100% natural para una vida más ligera y saludable.",
-  "image": "img/prod/p08.jpg",
+  "image": "prod/p08.jpg",
   "price": null,
   "brand": "Natural Medix · D'Natural",
   "presentation": "100 cápsulas",
@@ -181,14 +181,14 @@ window.PRODUCTOS = [
    "Mejora la piel y la apariencia"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f08.jpg"
+  "ficha": "ficha/f08.jpg"
  },
  {
   "id": 9,
   "name": "Gomitas Sottcor con Hierro",
   "category": "Familia",
   "description": "Con aceite de moringa y vitaminas C, B9 y B12. 150 gomitas.",
-  "image": "img/prod/p09.png",
+  "image": "prod/p09.png",
   "price": null,
   "brand": "Sottcor",
   "presentation": "150 gomitas",
@@ -207,14 +207,14 @@ window.PRODUCTOS = [
    "Vitamina C",
    "Vitamina B9 y B12"
   ],
-  "ficha": "img/ficha/f09.jpg"
+  "ficha": "ficha/f09.jpg"
  },
  {
   "id": 10,
   "name": "Gomitas Sottcor con Zinc",
   "category": "Familia",
   "description": "Zinc, vitamina C + D3 y betaglucano. 150 gomitas.",
-  "image": "img/prod/p10.png",
+  "image": "prod/p10.png",
   "price": null,
   "brand": "Sottcor",
   "presentation": "150 gomitas",
@@ -232,14 +232,14 @@ window.PRODUCTOS = [
    "Vitamina D3",
    "Betaglucano"
   ],
-  "ficha": "img/ficha/f10.jpg"
+  "ficha": "ficha/f10.jpg"
  },
  {
   "id": 11,
   "name": "Gomitas Sottcor Omega 3",
   "category": "Familia",
   "description": "Omega 3 con DHA, EPA, colina y B12. 150 gomitas.",
-  "image": "img/prod/p11.jpg",
+  "image": "prod/p11.jpg",
   "price": null,
   "brand": "Sottcor",
   "presentation": "150 gomitas",
@@ -258,14 +258,14 @@ window.PRODUCTOS = [
    "Colina",
    "Vitamina B12"
   ],
-  "ficha": "img/ficha/f11.jpg"
+  "ficha": "ficha/f11.jpg"
  },
  {
   "id": 12,
   "name": "Diabemac Plus",
   "category": "Bienestar",
   "description": "Labmac · Apoya mantener niveles saludables de glucosa.",
-  "image": "img/prod/p12.png",
+  "image": "prod/p12.png",
   "price": null,
   "brand": "Labmac",
   "presentation": "Tabletas de 500 mg · +20 gratis",
@@ -278,14 +278,14 @@ window.PRODUCTOS = [
    "Aporta antioxidantes naturales"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f12.jpg"
+  "ficha": "ficha/f12.jpg"
  },
  {
   "id": 13,
   "name": "Jarabe de Totuma y Jengibre",
   "category": "Bienestar",
   "description": "Apoyo para las vías respiratorias y el sistema inmunitario. Sabor a mentol.",
-  "image": "img/prod/p13.png",
+  "image": "prod/p13.png",
   "price": null,
   "brand": "",
   "presentation": "Jarabe · Sabor a mentol",
@@ -299,14 +299,14 @@ window.PRODUCTOS = [
    "Totuma",
    "Jengibre"
   ],
-  "ficha": "img/ficha/f13.jpg"
+  "ficha": "ficha/f13.jpg"
  },
  {
   "id": 14,
   "name": "Inulina con Aloe Vera",
   "category": "Digestivo",
   "description": "Mónverd · Para el bienestar digestivo y la flora intestinal.",
-  "image": "img/prod/p14.png",
+  "image": "prod/p14.png",
   "price": null,
   "brand": "Mónverd",
   "presentation": "Líquido",
@@ -320,14 +320,14 @@ window.PRODUCTOS = [
    "Inulina",
    "Aloe vera"
   ],
-  "ficha": "img/ficha/f14.jpg"
+  "ficha": "ficha/f14.jpg"
  },
  {
   "id": 15,
   "name": "Levadura de Cerveza Bio Lev",
   "category": "Nutrición",
   "description": "Suplemento alimenticio en polvo. Contenido neto 1000 g.",
-  "image": "img/prod/p15.png",
+  "image": "prod/p15.png",
   "price": null,
   "brand": "Bio Lev",
   "presentation": "1000 g · En polvo",
@@ -346,7 +346,7 @@ window.PRODUCTOS = [
   "name": "Gomitas BBL Adulto",
   "category": "Cuidado personal",
   "description": "Sottcor · Fenogreco, maca roja, garcinia cambogia y magnesio. 130 gomitas.",
-  "image": "img/prod/p16.png",
+  "image": "prod/p16.png",
   "price": null,
   "brand": "Sottcor",
   "presentation": "130 gomitas",
@@ -364,14 +364,14 @@ window.PRODUCTOS = [
    "Garcinia cambogia",
    "Magnesio"
   ],
-  "ficha": "img/ficha/f16.jpg"
+  "ficha": "ficha/f16.jpg"
  },
  {
   "id": 17,
   "name": "Ashwagandha con Vitamina B6",
   "category": "Bienestar",
   "description": "Cápsulas de 400 mg para calmar y fortalecer. 60 cápsulas.",
-  "image": "img/prod/p17.png",
+  "image": "prod/p17.png",
   "price": null,
   "brand": "",
   "presentation": "60 cápsulas de 400 mg · 1 al día",
@@ -386,14 +386,14 @@ window.PRODUCTOS = [
    "Ashwagandha",
    "Vitamina B6"
   ],
-  "ficha": "img/ficha/f17.jpg"
+  "ficha": "ficha/f17.jpg"
  },
  {
   "id": 18,
   "name": "Fitina, Paico y Multi Junior",
   "category": "Familia",
   "description": "Suplementos para la memoria, las defensas y el crecimiento de los niños.",
-  "image": "img/prod/p18.png",
+  "image": "prod/p18.png",
   "price": null,
   "brand": "Mónverd · Natural Factors",
   "presentation": "Varias presentaciones",
@@ -408,14 +408,14 @@ window.PRODUCTOS = [
    "Paico",
    "Multivitamínico Junior"
   ],
-  "ficha": "img/ficha/f18.jpg"
+  "ficha": "ficha/f18.jpg"
  },
  {
   "id": 19,
   "name": "Chanca Piedra",
   "category": "Bienestar",
   "description": "Labmac · Tabletas de 500 mg.",
-  "image": "img/prod/p19.png",
+  "image": "prod/p19.png",
   "price": null,
   "brand": "Labmac",
   "presentation": "Tabletas de 500 mg · +20 gratis",
@@ -435,7 +435,7 @@ window.PRODUCTOS = [
   "name": "Clorofila de Alfalfa y Moringa",
   "category": "Nutrición",
   "description": "Nature's Garden · Bebida sabor menta y hierbabuena. 500 ml.",
-  "image": "img/prod/p20.png",
+  "image": "prod/p20.png",
   "price": null,
   "brand": "Nature's Garden",
   "presentation": "500 ml · Sabor menta y hierbabuena",
@@ -457,7 +457,7 @@ window.PRODUCTOS = [
   "name": "SanaPies Talco Medicado",
   "category": "Cuidado personal",
   "description": "Nature's Garden · Protección diaria y frescura para tus pies.",
-  "image": "img/prod/p21.png",
+  "image": "prod/p21.png",
   "price": null,
   "brand": "Nature's Garden",
   "presentation": "Talco medicado",
@@ -472,14 +472,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Ingredientes naturales activos"
   ],
-  "ficha": "img/ficha/f21.jpg"
+  "ficha": "ficha/f21.jpg"
  },
  {
   "id": 22,
   "name": "Liquid Chlorophyll",
   "category": "Nutrición",
   "description": "Benevolent Nourishment · Suplemento herbal líquido, sin alcohol.",
-  "image": "img/prod/p22.png",
+  "image": "prod/p22.png",
   "price": null,
   "brand": "Benevolent Nourishment",
   "presentation": "Líquido en gotero · Sin alcohol",
@@ -498,14 +498,14 @@ window.PRODUCTOS = [
    "Eucalipto",
    "Perejil"
   ],
-  "ficha": "img/ficha/f22.jpg"
+  "ficha": "ficha/f22.jpg"
  },
  {
   "id": 23,
   "name": "Biotin 500 mg",
   "category": "Cuidado personal",
   "description": "Herbalmax · Para cabello, piel y uñas. 100 cápsulas.",
-  "image": "img/prod/p23.png",
+  "image": "prod/p23.png",
   "price": null,
   "brand": "Herbalmax",
   "presentation": "100 cápsulas de 500 mg",
@@ -519,14 +519,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Biotina"
   ],
-  "ficha": "img/ficha/f23.jpg"
+  "ficha": "ficha/f23.jpg"
  },
  {
   "id": 24,
   "name": "Propolis Forte",
   "category": "Bienestar",
   "description": "Nature's Garden · Propóleo con vitamina C y equinácea.",
-  "image": "img/prod/p24.png",
+  "image": "prod/p24.png",
   "price": null,
   "brand": "Nature's Garden",
   "presentation": "Suplemento nutricional",
@@ -542,14 +542,14 @@ window.PRODUCTOS = [
    "Equinácea",
    "Vitamina C"
   ],
-  "ficha": "img/ficha/f24.jpg"
+  "ficha": "ficha/f24.jpg"
  },
  {
   "id": 25,
   "name": "Pitahaya Chaya Alcachofa",
   "category": "Nutrición",
   "description": "Bebida instantánea 100% natural con 3 ingredientes naturales.",
-  "image": "img/prod/p25.jpg",
+  "image": "prod/p25.jpg",
   "price": null,
   "brand": "",
   "presentation": "Polvo instantáneo",
@@ -566,14 +566,14 @@ window.PRODUCTOS = [
    "Chaya",
    "Alcachofa"
   ],
-  "ficha": "img/ficha/f25.jpg"
+  "ficha": "ficha/f25.jpg"
  },
  {
   "id": 26,
   "name": "Vitafer-L",
   "category": "Bienestar",
   "description": "Suplemento dietario premium. Presentación de 500 ml.",
-  "image": "img/prod/p26.png",
+  "image": "prod/p26.png",
   "price": null,
   "brand": "Vitafer-L",
   "presentation": "500 ml · Líquido",
@@ -586,14 +586,14 @@ window.PRODUCTOS = [
    "Fórmula natural y segura"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f26.jpg"
+  "ficha": "ficha/f26.jpg"
  },
  {
   "id": 27,
   "name": "Jugo Verde Detox",
   "category": "Nutrición",
   "description": "Mezcla en polvo de superalimentos con vitamina C y clorofila. 500 g.",
-  "image": "img/prod/p27.png",
+  "image": "prod/p27.png",
   "price": null,
   "brand": "Jugo Verde Detox",
   "presentation": "500 g · En polvo",
@@ -614,14 +614,14 @@ window.PRODUCTOS = [
    "Vitamina C",
    "Clorofila"
   ],
-  "ficha": "img/ficha/f27.jpg"
+  "ficha": "ficha/f27.jpg"
  },
  {
   "id": 28,
   "name": "Cúrcuma Pura 1000 mg",
   "category": "Bienestar",
   "description": "Curcumin 95 con bee propolis, jengibre y pimienta negra. 60 cápsulas.",
-  "image": "img/prod/p28.png",
+  "image": "prod/p28.png",
   "price": null,
   "brand": "Microingredients",
   "presentation": "60 cápsulas vegetarianas · 1,000 mg",
@@ -637,14 +637,14 @@ window.PRODUCTOS = [
    "Jengibre",
    "Pimienta negra"
   ],
-  "ficha": "img/ficha/f28.jpg"
+  "ficha": "ficha/f28.jpg"
  },
  {
   "id": 29,
   "name": "Gomitas de Colágeno Hidrolizado",
   "category": "Cuidado personal",
   "description": "Suiza Pharma · Con células madre, biotina y vitamina E.",
-  "image": "img/prod/p29.png",
+  "image": "prod/p29.png",
   "price": null,
   "brand": "Suiza Pharma",
   "presentation": "Gomitas · Rinde hasta 37 días",
@@ -660,14 +660,14 @@ window.PRODUCTOS = [
    "Biotina",
    "Vitamina E"
   ],
-  "ficha": "img/ficha/f29.jpg"
+  "ficha": "ficha/f29.jpg"
  },
  {
   "id": 30,
   "name": "Células Madres Stem Cell",
   "category": "Cuidado personal",
   "description": "Biover Sport · Colágeno hidrolizado con calcio, biotina y ácido hialurónico.",
-  "image": "img/prod/p30.png",
+  "image": "prod/p30.png",
   "price": null,
   "brand": "Biover Sport",
   "presentation": "Complemento nutricional",
@@ -685,14 +685,14 @@ window.PRODUCTOS = [
    "Ácido hialurónico",
    "Ácido alfa lipoico"
   ],
-  "ficha": "img/ficha/f30.jpg"
+  "ficha": "ficha/f30.jpg"
  },
  {
   "id": 31,
   "name": "Triple C Advance",
   "category": "Nutrición",
   "description": "Nature's Garden · Vitamina C 1000 mg efervescente. 20 sobres.",
-  "image": "img/prod/p31.png",
+  "image": "prod/p31.png",
   "price": null,
   "brand": "Nature's Garden",
   "presentation": "20 sobres efervescentes",
@@ -710,14 +710,14 @@ window.PRODUCTOS = [
    "Zinc",
    "Magnesio"
   ],
-  "ficha": "img/ficha/f31.jpg"
+  "ficha": "ficha/f31.jpg"
  },
  {
   "id": 32,
   "name": "Clean Nutra Berberine",
   "category": "Bienestar",
   "description": "Gotas con berberina, canela de Ceilán, cromo, melón amargo y cúrcuma.",
-  "image": "img/prod/p32.png",
+  "image": "prod/p32.png",
   "price": null,
   "brand": "Clean Nutra",
   "presentation": "Gotas · Líquido",
@@ -737,14 +737,14 @@ window.PRODUCTOS = [
    "Melón amargo",
    "Cúrcuma"
   ],
-  "ficha": "img/ficha/f32.jpg"
+  "ficha": "ficha/f32.jpg"
  },
  {
   "id": 33,
   "name": "Gastro-Probiotic",
   "category": "Digestivo",
   "description": "Bosser · Prebióticos con achicoria, caléndula y vitamina C. 500 ml.",
-  "image": "img/prod/p33.png",
+  "image": "prod/p33.png",
   "price": null,
   "brand": "Bosser",
   "presentation": "500 ml · Líquido",
@@ -763,14 +763,14 @@ window.PRODUCTOS = [
    "Vitamina C",
    "Fructooligosacáridos"
   ],
-  "ficha": "img/ficha/f33.jpg"
+  "ficha": "ficha/f33.jpg"
  },
  {
   "id": 34,
   "name": "Peptonas en Gomitas",
   "category": "Cuidado personal",
   "description": "Green Planet · Con aguaje y fenogreco. 90 gomitas.",
-  "image": "img/prod/p34.png",
+  "image": "prod/p34.png",
   "price": null,
   "brand": "Green Planet",
   "presentation": "90 gomitas",
@@ -785,14 +785,14 @@ window.PRODUCTOS = [
    "Aguaje",
    "Fenogreco"
   ],
-  "ficha": "img/ficha/f34.jpg"
+  "ficha": "ficha/f34.jpg"
  },
  {
   "id": 35,
   "name": "Combo Salud Ósea y Articular",
   "category": "Combos",
   "description": "Combo con colágeno, magnesio, vitamina C, K2 + D3 y zinc para el soporte de huesos, músculos y articulaciones.",
-  "image": "img/prod/p35.jpg",
+  "image": "prod/p35.jpg",
   "price": null,
   "brand": "",
   "presentation": "Combo de 3 productos",
@@ -811,14 +811,14 @@ window.PRODUCTOS = [
    "Vitamina K2 + D3",
    "Zinc"
   ],
-  "ficha": "img/ficha/f35.jpg"
+  "ficha": "ficha/f35.jpg"
  },
  {
   "id": 36,
   "name": "H&R Hígado y Riñones",
   "category": "Bienestar",
   "description": "Extracto acuoso natural para el cuidado del hígado y de las vías urinarias.",
-  "image": "img/prod/p36.jpg",
+  "image": "prod/p36.jpg",
   "price": null,
   "brand": "",
   "presentation": "Solución oral · Botella de 500 ml o 750 ml",
@@ -831,14 +831,14 @@ window.PRODUCTOS = [
    "Limpia y desinflama las vías urinarias"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f36.jpg"
+  "ficha": "ficha/f36.jpg"
  },
  {
   "id": 37,
   "name": "Herbal Hemorrhoids Dropper",
   "category": "Bienestar",
   "description": "Fórmula herbal en gotero para el alivio natural de las hemorroides externas.",
-  "image": "img/prod/p37.jpg",
+  "image": "prod/p37.jpg",
   "price": null,
   "brand": "Dr. USA",
   "presentation": "Gotero",
@@ -852,14 +852,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Extractos herbales seleccionados"
   ],
-  "ficha": "img/ficha/f37.jpg"
+  "ficha": "ficha/f37.jpg"
  },
  {
   "id": 38,
   "name": "VenoLive",
   "category": "Bienestar",
   "description": "Producto para las piernas cansadas y pesadas.",
-  "image": "img/prod/p38.jpg",
+  "image": "prod/p38.jpg",
   "price": null,
   "brand": "Nature's Garden",
   "presentation": "Caja",
@@ -870,14 +870,14 @@ window.PRODUCTOS = [
    "Para piernas cansadas y pesadas"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f38.jpg"
+  "ficha": "ficha/f38.jpg"
  },
  {
   "id": 39,
   "name": "Moringa",
   "category": "Nutrición",
   "description": "Moringa en cápsulas: detox natural, energía y apoyo al sistema inmunológico.",
-  "image": "img/prod/p39.jpg",
+  "image": "prod/p39.jpg",
   "price": null,
   "brand": "Labmac",
   "presentation": "Cápsulas · 2 al día con las comidas",
@@ -892,14 +892,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Moringa oleifera"
   ],
-  "ficha": "img/ficha/f39.jpg"
+  "ficha": "ficha/f39.jpg"
  },
  {
   "id": 40,
   "name": "Doctor Vit Kids",
   "category": "Familia",
   "description": "Multivitamínico para niños con zinc, magnesio, gluconato y vitamina C.",
-  "image": "img/prod/p40.jpg",
+  "image": "prod/p40.jpg",
   "price": null,
   "brand": "Biover Sport",
   "presentation": "Multivitamínico en polvo para preparar",
@@ -919,14 +919,14 @@ window.PRODUCTOS = [
    "Gluconato",
    "Vitamina C"
   ],
-  "ficha": "img/ficha/f40.jpg"
+  "ficha": "ficha/f40.jpg"
  },
  {
   "id": 41,
   "name": "Combo Hígado Graso",
   "category": "Combos",
   "description": "Combo hepático con silimarina y lecitina para limpiar y cuidar el hígado.",
-  "image": "img/prod/p41.jpg",
+  "image": "prod/p41.jpg",
   "price": null,
   "brand": "Vitural · Higa-Vit",
   "presentation": "Combo de productos",
@@ -944,14 +944,14 @@ window.PRODUCTOS = [
    "Lecitina",
    "Omega"
   ],
-  "ficha": "img/ficha/f41.jpg"
+  "ficha": "ficha/f41.jpg"
  },
  {
   "id": 42,
   "name": "Zapaico Lax",
   "category": "Digestivo",
   "description": "Para desintoxicar el cuerpo y cuidar el tránsito intestinal.",
-  "image": "img/prod/p42.jpg",
+  "image": "prod/p42.jpg",
   "price": null,
   "brand": "Zapaico",
   "presentation": "36 sobres",
@@ -962,14 +962,14 @@ window.PRODUCTOS = [
    "Mejora tu digestión"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f42.jpg"
+  "ficha": "ficha/f42.jpg"
  },
  {
   "id": 43,
   "name": "Colágeno + Vitamina C",
   "category": "Cuidado personal",
   "description": "Colágeno con vitamina C para la piel, las articulaciones y la energía.",
-  "image": "img/prod/p43.jpg",
+  "image": "prod/p43.jpg",
   "price": null,
   "brand": "Natural Factors",
   "presentation": "Líquido",
@@ -985,14 +985,14 @@ window.PRODUCTOS = [
    "Colágeno",
    "Vitamina C"
   ],
-  "ficha": "img/ficha/f43.jpg"
+  "ficha": "ficha/f43.jpg"
  },
  {
   "id": 44,
   "name": "Combo Salud & Energía",
   "category": "Combos",
   "description": "Combo de colágeno con resveratrol y NAD+ para la energía celular y el bienestar.",
-  "image": "img/prod/p44.jpg",
+  "image": "prod/p44.jpg",
   "price": null,
   "brand": "Biover",
   "presentation": "Combo de 2 productos",
@@ -1013,14 +1013,14 @@ window.PRODUCTOS = [
    "Mora",
    "Uva"
   ],
-  "ficha": "img/ficha/f44.jpg"
+  "ficha": "ficha/f44.jpg"
  },
  {
   "id": 45,
   "name": "Ginseng Ginkgo Biloba Extracto",
   "category": "Energía",
   "description": "Extracto líquido en base de miel para la energía, la memoria y el bienestar integral.",
-  "image": "img/prod/p45.jpg",
+  "image": "prod/p45.jpg",
   "price": null,
   "brand": "",
   "presentation": "Ampollas líquidas con miel",
@@ -1037,14 +1037,14 @@ window.PRODUCTOS = [
    "Ginkgo biloba",
    "Miel pura"
   ],
-  "ficha": "img/ficha/f45.jpg"
+  "ficha": "ficha/f45.jpg"
  },
  {
   "id": 46,
   "name": "Dab-Zhan",
   "category": "Bienestar",
   "description": "Jarabe natural para apoyar el equilibrio de los niveles de glucosa.",
-  "image": "img/prod/p46.jpg",
+  "image": "prod/p46.jpg",
   "price": null,
   "brand": "",
   "presentation": "500 ml · Botella de vidrio",
@@ -1057,14 +1057,14 @@ window.PRODUCTOS = [
    "Aporta potentes antioxidantes naturales"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f46.jpg"
+  "ficha": "ficha/f46.jpg"
  },
  {
   "id": 47,
   "name": "Fórmula Años Dorados",
   "category": "Bienestar",
   "description": "Suplemento para vivir los años dorados con vitalidad y alegría.",
-  "image": "img/prod/p47.jpg",
+  "image": "prod/p47.jpg",
   "price": null,
   "brand": "",
   "presentation": "Suplemento alimenticio",
@@ -1082,14 +1082,14 @@ window.PRODUCTOS = [
    "Vitamina B5",
    "Vitamina D"
   ],
-  "ficha": "img/ficha/f47.jpg"
+  "ficha": "ficha/f47.jpg"
  },
  {
   "id": 48,
   "name": "Creatina Monohidrato 5000 mg",
   "category": "Energía",
   "description": "Creatina para deportistas: fuerza, volumen e hidratación muscular.",
-  "image": "img/prod/p48.jpg",
+  "image": "prod/p48.jpg",
   "price": null,
   "brand": "Biover Sport",
   "presentation": "Polvo",
@@ -1104,14 +1104,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Creatina monohidrato"
   ],
-  "ficha": "img/ficha/f48.jpg"
+  "ficha": "ficha/f48.jpg"
  },
  {
   "id": 49,
   "name": "Yerba Magic Peach Mango",
   "category": "Energía",
   "description": "Bebida de yerba mate para energía natural sin bajones.",
-  "image": "img/prod/p49.jpg",
+  "image": "prod/p49.jpg",
   "price": null,
   "brand": "",
   "presentation": "Sabor peach mango",
@@ -1125,14 +1125,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Yerba mate"
   ],
-  "ficha": "img/ficha/f49.jpg"
+  "ficha": "ficha/f49.jpg"
  },
  {
   "id": 50,
   "name": "Combo Drenaje Linfático + Adelgazante 360 Gold",
   "category": "Combos",
   "description": "Combo para desinflamar, drenar líquidos y apoyar el control de peso.",
-  "image": "img/prod/p50.jpg",
+  "image": "prod/p50.jpg",
   "price": null,
   "brand": "Aurelys",
   "presentation": "Combo de 2 productos",
@@ -1146,14 +1146,14 @@ window.PRODUCTOS = [
    "Apoya la eliminación de toxinas del cuerpo"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f50.jpg"
+  "ficha": "ficha/f50.jpg"
  },
  {
   "id": 51,
   "name": "Vita Toro",
   "category": "Energía",
   "description": "Tónico nutricional energético con vitaminas y minerales para mente, cuerpo y bienestar.",
-  "image": "img/prod/p51.jpg",
+  "image": "prod/p51.jpg",
   "price": null,
   "brand": "Nature's Garden",
   "presentation": "500 ml · Vía oral",
@@ -1169,14 +1169,14 @@ window.PRODUCTOS = [
    "Complejo B",
    "Vitamina C"
   ],
-  "ficha": "img/ficha/f51.jpg"
+  "ficha": "ficha/f51.jpg"
  },
  {
   "id": 52,
   "name": "Rheum-Stop Árnica",
   "category": "Cuidado personal",
   "description": "Crema de árnica para calmar y relajar el cuerpo.",
-  "image": "img/prod/p52.jpg",
+  "image": "prod/p52.jpg",
   "price": null,
   "brand": "INGR",
   "presentation": "Crema calmante hidratante corporal",
@@ -1190,14 +1190,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Árnica"
   ],
-  "ficha": "img/ficha/f52.jpg"
+  "ficha": "ficha/f52.jpg"
  },
  {
   "id": 53,
   "name": "URO Vaginal Probiotic",
   "category": "Bienestar",
   "description": "Probiótico en cápsulas para el equilibrio íntimo femenino.",
-  "image": "img/prod/p53.png",
+  "image": "prod/p53.png",
   "price": null,
   "brand": "",
   "presentation": "Cápsulas veganas",
@@ -1210,14 +1210,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Probióticos"
   ],
-  "ficha": "img/ficha/f53.jpg"
+  "ficha": "ficha/f53.jpg"
  },
  {
   "id": 54,
   "name": "Chupagrass Curvas Naturales",
   "category": "Control de peso",
   "description": "Suplemento en polvo con 13 ingredientes naturales para el control de peso.",
-  "image": "img/prod/p54.jpg",
+  "image": "prod/p54.jpg",
   "price": null,
   "brand": "Mónverd",
   "presentation": "400 g · Polvo sabor frutos rojos",
@@ -1243,14 +1243,14 @@ window.PRODUCTOS = [
    "Inulina",
    "Avena"
   ],
-  "ficha": "img/ficha/f54.jpg"
+  "ficha": "ficha/f54.jpg"
  },
  {
   "id": 55,
   "name": "Sanson Bacarles",
   "category": "Digestivo",
   "description": "Vino quinado compuesto con más de 100 años de tradición, usado como tónico digestivo.",
-  "image": "img/prod/p55.jpg",
+  "image": "prod/p55.jpg",
   "price": null,
   "brand": "Bacarles",
   "presentation": "Vino quinado compuesto · Solo mayores de 18 años",
@@ -1266,14 +1266,14 @@ window.PRODUCTOS = [
    "Quina",
    "Plantas aromáticas"
   ],
-  "ficha": "img/ficha/f55.jpg"
+  "ficha": "ficha/f55.jpg"
  },
  {
   "id": 56,
   "name": "Torovital Panax Ginseng",
   "category": "Energía",
   "description": "Fitoextracto de Panax Ginseng en jarabe para más energía y vitalidad.",
-  "image": "img/prod/p56.jpg",
+  "image": "prod/p56.jpg",
   "price": null,
   "brand": "",
   "presentation": "Jarabe de 500 ml · Uso oral",
@@ -1287,14 +1287,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Panax Ginseng"
   ],
-  "ficha": "img/ficha/f56.jpg"
+  "ficha": "ficha/f56.jpg"
  },
  {
   "id": 57,
   "name": "Aceite de Castañuelas",
   "category": "Cuidado personal",
   "description": "Aceite de Cyperus rotundus para reducir el crecimiento del vello.",
-  "image": "img/prod/p57.jpg",
+  "image": "prod/p57.jpg",
   "price": null,
   "brand": "Caramela Beauty",
   "presentation": "30 ml",
@@ -1308,14 +1308,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Cyperus rotundus"
   ],
-  "ficha": "img/ficha/f57.jpg"
+  "ficha": "ficha/f57.jpg"
  },
  {
   "id": 58,
   "name": "Precursor CRB",
   "category": "Nutrición",
   "description": "Fórmula precursora del DHA y EPA con Omega 3, ginkgo biloba y vitaminas del complejo B.",
-  "image": "img/prod/p58.jpg",
+  "image": "prod/p58.jpg",
   "price": null,
   "brand": "Bosser",
   "presentation": "Complemento nutricional",
@@ -1333,14 +1333,14 @@ window.PRODUCTOS = [
    "Ginkgo biloba",
    "Vitaminas B1, B3, B6 y B9"
   ],
-  "ficha": "img/ficha/f58.jpg"
+  "ficha": "ficha/f58.jpg"
  },
  {
   "id": 59,
   "name": "Drenaje Linfático",
   "category": "Bienestar",
   "description": "Fórmula natural con extractos de plantas para el apoyo linfático tradicional.",
-  "image": "img/prod/p59.jpg",
+  "image": "prod/p59.jpg",
   "price": null,
   "brand": "Aurelys",
   "presentation": "Extracto líquido de plantas",
@@ -1358,14 +1358,14 @@ window.PRODUCTOS = [
    "Stillingia",
    "Fresno espinoso"
   ],
-  "ficha": "img/ficha/f59.jpg"
+  "ficha": "ficha/f59.jpg"
  },
  {
   "id": 60,
   "name": "Neurocid Nervios y Sustos",
   "category": "Bienestar",
   "description": "Jarabe con valeriana para aliviar la tensión y conciliar el sueño.",
-  "image": "img/prod/p60.jpg",
+  "image": "prod/p60.jpg",
   "price": null,
   "brand": "",
   "presentation": "Jarabe",
@@ -1378,14 +1378,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Valeriana officinalis"
   ],
-  "ficha": "img/ficha/f60.jpg"
+  "ficha": "ficha/f60.jpg"
  },
  {
   "id": 61,
   "name": "Magnesium 10-in-1 Complex",
   "category": "Nutrición",
   "description": "Complejo de magnesio de espectro completo para nervios, huesos, digestión y corazón.",
-  "image": "img/prod/p52.png",
+  "image": "prod/p52.png",
   "price": null,
   "brand": "Vitalibre",
   "presentation": "120 cápsulas vegetarianas",
@@ -1399,14 +1399,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Magnesio (10 formas)"
   ],
-  "ficha": "img/ficha/f61.jpg"
+  "ficha": "ficha/f61.jpg"
  },
  {
   "id": 62,
   "name": "Bloom Green Detox Juice",
   "category": "Digestivo",
   "description": "Jugo verde detox para la digestión, la hinchazón y la energía.",
-  "image": "img/prod/p62.jpg",
+  "image": "prod/p62.jpg",
   "price": null,
   "brand": "Mónverd",
   "presentation": "Sabor limón-naranja",
@@ -1424,14 +1424,14 @@ window.PRODUCTOS = [
    "Superfoods",
    "Vitaminas y minerales"
   ],
-  "ficha": "img/ficha/f62.jpg"
+  "ficha": "ficha/f62.jpg"
  },
  {
   "id": 63,
   "name": "Combo Anti Colesterol y Triglicéridos",
   "category": "Combos",
   "description": "Combo para cuidar el corazón, la circulación y los niveles de colesterol.",
-  "image": "img/prod/p63.jpg",
+  "image": "prod/p63.jpg",
   "price": null,
   "brand": "Ecua-Orgánico",
   "presentation": "Combo de productos",
@@ -1446,14 +1446,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Omega-3 (salmón de Alaska)"
   ],
-  "ficha": "img/ficha/f63.jpg"
+  "ficha": "ficha/f63.jpg"
  },
  {
   "id": 64,
   "name": "Propóleo, Ajo, Jengibre y Rábano",
   "category": "Bienestar",
   "description": "Suplemento líquido con propóleo y vitamina C para tos, bronquios y defensas.",
-  "image": "img/prod/p64.jpg",
+  "image": "prod/p64.jpg",
   "price": null,
   "brand": "Natural Paradise",
   "presentation": "500 ml · Líquido",
@@ -1472,14 +1472,14 @@ window.PRODUCTOS = [
    "Rábano",
    "Vitamina C"
   ],
-  "ficha": "img/ficha/f64.jpg"
+  "ficha": "ficha/f64.jpg"
  },
  {
   "id": 65,
   "name": "Barricol Parasitosis",
   "category": "Digestivo",
   "description": "Fórmula natural con extracto de nogal para la parasitosis intestinal.",
-  "image": "img/prod/p65.jpg",
+  "image": "prod/p65.jpg",
   "price": null,
   "brand": "Natural Factors",
   "presentation": "Líquido · 10 ml",
@@ -1494,14 +1494,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Extracto de nogal"
   ],
-  "ficha": "img/ficha/f65.jpg"
+  "ficha": "ficha/f65.jpg"
  },
  {
   "id": 66,
   "name": "Berberina HCL",
   "category": "Bienestar",
   "description": "Berberina HCL de pureza excepcional en cápsulas vegetales.",
-  "image": "img/prod/p66.jpg",
+  "image": "prod/p66.jpg",
   "price": null,
   "brand": "Carlyle",
   "presentation": "60 cápsulas de base vegetal",
@@ -1516,14 +1516,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Berberine HCL"
   ],
-  "ficha": "img/ficha/f66.jpg"
+  "ficha": "ficha/f66.jpg"
  },
  {
   "id": 67,
   "name": "Magnesio + Potasio Citrate",
   "category": "Energía",
   "description": "Citrato de magnesio y potasio en polvo para músculos, energía y bienestar.",
-  "image": "img/prod/p67.jpg",
+  "image": "prod/p67.jpg",
   "price": null,
   "brand": "Biover Sport",
   "presentation": "Polvo para disolver",
@@ -1539,14 +1539,14 @@ window.PRODUCTOS = [
    "Citrato de magnesio",
    "Citrato de potasio"
   ],
-  "ficha": "img/ficha/f67.jpg"
+  "ficha": "ficha/f67.jpg"
  },
  {
   "id": 68,
   "name": "Combo Huesos Fuertes y Sin Dolor",
   "category": "Combos",
   "description": "Combo con Artrin, calcio, colágeno, magnesio y vitamina D para huesos y articulaciones.",
-  "image": "img/prod/p68.jpg",
+  "image": "prod/p68.jpg",
   "price": null,
   "brand": "",
   "presentation": "Combo de productos",
@@ -1565,14 +1565,14 @@ window.PRODUCTOS = [
    "Magnesio",
    "Vitamina D"
   ],
-  "ficha": "img/ficha/f68.jpg"
+  "ficha": "ficha/f68.jpg"
  },
  {
   "id": 69,
   "name": "Combo Adelgazante",
   "category": "Combos",
   "description": "Combo con Adelgazante Natural 360 Gold, Centella asiática y Spirulina, y Paico-Sen.",
-  "image": "img/prod/p69.jpg",
+  "image": "prod/p69.jpg",
   "price": null,
   "brand": "Labmac",
   "presentation": "Combo de 3 productos",
@@ -1591,14 +1591,14 @@ window.PRODUCTOS = [
    "Paico",
    "Sen"
   ],
-  "ficha": "img/ficha/f69.jpg"
+  "ficha": "ficha/f69.jpg"
  },
  {
   "id": 70,
   "name": "Aceite de Semillas de Calabaza",
   "category": "Bienestar",
   "description": "Fórmula 2 en 1 con aceite de semillas de calabaza y Saw Palmetto.",
-  "image": "img/prod/p70.jpg",
+  "image": "prod/p70.jpg",
   "price": null,
   "brand": "",
   "presentation": "90 cápsulas de 1,000 mg",
@@ -1613,14 +1613,14 @@ window.PRODUCTOS = [
    "Aceite de semillas de calabaza",
    "Saw Palmetto"
   ],
-  "ficha": "img/ficha/f70.jpg"
+  "ficha": "ficha/f70.jpg"
  },
  {
   "id": 71,
   "name": "Combo Energía y Fuerza para el Soldado",
   "category": "Combos",
   "description": "Combo con Maca Negra, Vitafer-L y Saw Palmetto para energía y bienestar masculino.",
-  "image": "img/prod/p71.jpg",
+  "image": "prod/p71.jpg",
   "price": null,
   "brand": "Ecua-Orgánico",
   "presentation": "Combo de productos",
@@ -1637,14 +1637,14 @@ window.PRODUCTOS = [
    "Vitafer-L",
    "Saw Palmetto"
   ],
-  "ficha": "img/ficha/f71.jpg"
+  "ficha": "ficha/f71.jpg"
  },
  {
   "id": 72,
   "name": "Colágeno Marino + MSM",
   "category": "Cuidado personal",
   "description": "Fusión de péptidos marinos, MSM y salmón DNA para el cuerpo.",
-  "image": "img/prod/p72.jpg",
+  "image": "prod/p72.jpg",
   "price": null,
   "brand": "Biover Sport",
   "presentation": "700 g · Péptidos marinos, MSM, Salmón DNA",
@@ -1661,14 +1661,14 @@ window.PRODUCTOS = [
    "MSM",
    "Salmón DNA"
   ],
-  "ficha": "img/ficha/f72.jpg"
+  "ficha": "ficha/f72.jpg"
  },
  {
   "id": 73,
   "name": "Varisan V-Vari Health",
   "category": "Bienestar",
   "description": "Aliado natural para una mejor circulación y piernas ligeras.",
-  "image": "img/prod/p73.jpg",
+  "image": "prod/p73.jpg",
   "price": null,
   "brand": "Natural Factors",
   "presentation": "Líquido",
@@ -1682,14 +1682,14 @@ window.PRODUCTOS = [
    "100% natural, sin químicos ni conservantes"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f73.jpg"
+  "ficha": "ficha/f73.jpg"
  },
  {
   "id": 74,
   "name": "Maca Negra en Polvo",
   "category": "Energía",
   "description": "Complemento nutricional de maca negra micropulverizada, energizante y vigorizante.",
-  "image": "img/prod/p74.jpg",
+  "image": "prod/p74.jpg",
   "price": null,
   "brand": "",
   "presentation": "500 g · Polvo",
@@ -1701,28 +1701,28 @@ window.PRODUCTOS = [
   "ingredients": [
    "Maca negra"
   ],
-  "ficha": "img/ficha/f74.jpg"
+  "ficha": "ficha/f74.jpg"
  },
  {
   "id": 75,
   "name": "Bururan",
   "category": "Bienestar",
   "description": "Suplemento en cápsulas. Consulta ingredientes y presentación.",
-  "image": "img/prod/p60.png",
+  "image": "prod/p60.png",
   "price": null,
   "brand": "",
   "presentation": "Cápsulas",
   "uses": "Suplemento en cápsulas. Consulta ingredientes y presentación.",
   "benefits": [],
   "ingredients": [],
-  "ficha": "img/ficha/f75.jpg"
+  "ficha": "ficha/f75.jpg"
  },
  {
   "id": 76,
   "name": "Adelgazante Natural Liporeductor",
   "category": "Control de peso",
   "description": "Adelgazante 100% liporeductor para ayudar a reducir grasa y controlar la ansiedad.",
-  "image": "img/prod/p76.jpg",
+  "image": "prod/p76.jpg",
   "price": null,
   "brand": "",
   "presentation": "Líquido",
@@ -1736,14 +1736,14 @@ window.PRODUCTOS = [
    "Elimina líquidos retenidos"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f76.jpg"
+  "ficha": "ficha/f76.jpg"
  },
  {
   "id": 77,
   "name": "Té de Dieta de Ginseng",
   "category": "Control de peso",
   "description": "Té de dieta con ginseng, suplemento alimenticio.",
-  "image": "img/prod/p77.jpg",
+  "image": "prod/p77.jpg",
   "price": null,
   "brand": "Pan American Enterprises",
   "presentation": "30 bolsitas filtrantes · 60 g",
@@ -1754,14 +1754,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Ginseng"
   ],
-  "ficha": "img/ficha/f77.jpg"
+  "ficha": "ficha/f77.jpg"
  },
  {
   "id": 78,
   "name": "Citrato de Potasio",
   "category": "Bienestar",
   "description": "Mineral para la energía, los músculos y el sistema nervioso.",
-  "image": "img/prod/p78.jpg",
+  "image": "prod/p78.jpg",
   "price": null,
   "brand": "Natural Factors",
   "presentation": "Líquido",
@@ -1775,14 +1775,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Citrato de potasio"
   ],
-  "ficha": "img/ficha/f78.jpg"
+  "ficha": "ficha/f78.jpg"
  },
  {
   "id": 79,
   "name": "HGR Hig-Riñ",
   "category": "Bienestar",
   "description": "Suplemento con boldo, chancapiedra, ortiga y silimarina para el hígado y los riñones.",
-  "image": "img/prod/p79.jpg",
+  "image": "prod/p79.jpg",
   "price": null,
   "brand": "Bosser",
   "presentation": "500 ml",
@@ -1802,14 +1802,14 @@ window.PRODUCTOS = [
    "Silimarina",
    "Vitaminas B1 y B3"
   ],
-  "ficha": "img/ficha/f79.jpg"
+  "ficha": "ficha/f79.jpg"
  },
  {
   "id": 80,
   "name": "Vistamax",
   "category": "Bienestar",
   "description": "Suplemento para apoyar la visión y proteger los ojos.",
-  "image": "img/prod/p80.jpg",
+  "image": "prod/p80.jpg",
   "price": null,
   "brand": "American Nature",
   "presentation": "Cápsulas",
@@ -1825,14 +1825,14 @@ window.PRODUCTOS = [
    "Zinc",
    "Vitaminas C y E"
   ],
-  "ficha": "img/ficha/f80.jpg"
+  "ficha": "ficha/f80.jpg"
  },
  {
   "id": 81,
   "name": "Linfovit Drenaje Linfático",
   "category": "Bienestar",
   "description": "Apoyo linfático tradicional con extractos de plantas.",
-  "image": "img/prod/p81.png",
+  "image": "prod/p81.png",
   "price": null,
   "brand": "Linfovit",
   "presentation": "60 cápsulas vegetales",
@@ -1842,14 +1842,14 @@ window.PRODUCTOS = [
    "Extractos de plantas"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f81.jpg"
+  "ficha": "ficha/f81.jpg"
  },
  {
   "id": 82,
   "name": "Resveratrol Longevity Women",
   "category": "Cuidado personal",
   "description": "Gomitas de resveratrol para belleza, salud y longevidad femenina.",
-  "image": "img/prod/p82.jpg",
+  "image": "prod/p82.jpg",
   "price": null,
   "brand": "Living Natural",
   "presentation": "Gomitas sabor uva",
@@ -1865,14 +1865,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Resveratrol"
   ],
-  "ficha": "img/ficha/f82.jpg"
+  "ficha": "ficha/f82.jpg"
  },
  {
   "id": 83,
   "name": "Reducplant",
   "category": "Control de peso",
   "description": "Aliado natural para el control del peso.",
-  "image": "img/prod/p83.jpg",
+  "image": "prod/p83.jpg",
   "price": null,
   "brand": "Natural Factors",
   "presentation": "Líquido",
@@ -1888,14 +1888,14 @@ window.PRODUCTOS = [
    "Spirulina",
    "Passiflora incarnata"
   ],
-  "ficha": "img/ficha/f83.jpg"
+  "ficha": "ficha/f83.jpg"
  },
  {
   "id": 84,
   "name": "Liver Cleanse & Detox",
   "category": "Bienestar",
   "description": "Fórmula con botánicos y micronutrientes para acompañar tu rutina detox.",
-  "image": "img/prod/p84.jpg",
+  "image": "prod/p84.jpg",
   "price": null,
   "brand": "",
   "presentation": "Cápsulas · Fórmula premium",
@@ -1913,14 +1913,14 @@ window.PRODUCTOS = [
    "Semilla de uva",
    "Cúrcuma"
   ],
-  "ficha": "img/ficha/f84.jpg"
+  "ficha": "ficha/f84.jpg"
  },
  {
   "id": 85,
   "name": "DefenseVit",
   "category": "Nutrición",
   "description": "Suplemento con vitamina C, vitamina D3 y zinc para fortalecer tus defensas.",
-  "image": "img/prod/p85.jpg",
+  "image": "prod/p85.jpg",
   "price": null,
   "brand": "Munavi",
   "presentation": "Líquido sabor naranja",
@@ -1936,14 +1936,14 @@ window.PRODUCTOS = [
    "Vitamina D3",
    "Zinc"
   ],
-  "ficha": "img/ficha/f85.jpg"
+  "ficha": "ficha/f85.jpg"
  },
  {
   "id": 86,
   "name": "Prostazan",
   "category": "Bienestar",
   "description": "Extracto natural para la salud prostática completa.",
-  "image": "img/prod/p86.jpg",
+  "image": "prod/p86.jpg",
   "price": null,
   "brand": "",
   "presentation": "Jarabe",
@@ -1960,14 +1960,14 @@ window.PRODUCTOS = [
    "Uña de gato",
    "Mashua"
   ],
-  "ficha": "img/ficha/f86.jpg"
+  "ficha": "ficha/f86.jpg"
  },
  {
   "id": 87,
   "name": "Ginseng + Ginkgo Biloba",
   "category": "Energía",
   "description": "Fórmula natural para activar tu mente cada día.",
-  "image": "img/prod/p87.jpg",
+  "image": "prod/p87.jpg",
   "price": null,
   "brand": "Natural Factors",
   "presentation": "Líquido",
@@ -1984,14 +1984,14 @@ window.PRODUCTOS = [
    "Ginseng",
    "Ginkgo biloba"
   ],
-  "ficha": "img/ficha/f87.jpg"
+  "ficha": "ficha/f87.jpg"
  },
  {
   "id": 88,
   "name": "Colágeno + Citrato de Magnesio y Potasio",
   "category": "Cuidado personal",
   "description": "Colágeno hidrolizado con citrato de magnesio y potasio para articulaciones y músculos.",
-  "image": "img/prod/p88.jpg",
+  "image": "prod/p88.jpg",
   "price": null,
   "brand": "Mónverd",
   "presentation": "Polvo",
@@ -2010,14 +2010,14 @@ window.PRODUCTOS = [
    "Vitamina C",
    "Sauce blanco"
   ],
-  "ficha": "img/ficha/f88.jpg"
+  "ficha": "ficha/f88.jpg"
  },
  {
   "id": 89,
   "name": "Biolig",
   "category": "Control de peso",
   "description": "Mezcla de superalimentos en polvo, aliado natural para un peso saludable.",
-  "image": "img/prod/p89.jpg",
+  "image": "prod/p89.jpg",
   "price": null,
   "brand": "Esnatura",
   "presentation": "Polvo para preparar bebida",
@@ -2036,14 +2036,14 @@ window.PRODUCTOS = [
    "Piña",
    "Chía"
   ],
-  "ficha": "img/ficha/f89.jpg"
+  "ficha": "ficha/f89.jpg"
  },
  {
   "id": 90,
   "name": "Combo Baja de Talla",
   "category": "Control de peso",
   "description": "Combo con té de hierbas y semillas naturales para sentirte más ligera.",
-  "image": "img/prod/p90.jpg",
+  "image": "prod/p90.jpg",
   "price": null,
   "brand": "Mundo Natural Pharma",
   "presentation": "Té filtrante · 30 sobres de 75 g",
@@ -2059,14 +2059,14 @@ window.PRODUCTOS = [
    "Muña",
    "Hierbas y semillas naturales"
   ],
-  "ficha": "img/ficha/f90.jpg"
+  "ficha": "ficha/f90.jpg"
  },
  {
   "id": 91,
   "name": "Cre-C con Ácido Fólico",
   "category": "Familia",
   "description": "Nutrición completa para pequeños héroes, con ácido fólico, vitaminas y zinc.",
-  "image": "img/prod/p91.jpg",
+  "image": "prod/p91.jpg",
   "price": null,
   "brand": "Biover Sport",
   "presentation": "Suplemento infantil",
@@ -2084,14 +2084,14 @@ window.PRODUCTOS = [
    "Zinc",
    "Vitamina B12"
   ],
-  "ficha": "img/ficha/f91.jpg"
+  "ficha": "ficha/f91.jpg"
  },
  {
   "id": 92,
   "name": "Rompe Cálculos",
   "category": "Bienestar",
   "description": "Extracto natural para disolver cálculos de la vesícula y los riñones.",
-  "image": "img/prod/p92.jpg",
+  "image": "prod/p92.jpg",
   "price": null,
   "brand": "",
   "presentation": "Jarabe",
@@ -2104,14 +2104,14 @@ window.PRODUCTOS = [
    "Disminuye la inflamación y la retención de líquidos"
   ],
   "ingredients": [],
-  "ficha": "img/ficha/f92.jpg"
+  "ficha": "ficha/f92.jpg"
  },
  {
   "id": 93,
   "name": "Saw Palmetto Prosta Life",
   "category": "Bienestar",
   "description": "El Saw Palmetto es un aliado natural para la salud de la próstata y el bienestar urinario.",
-  "image": "img/prod/p93.jpg",
+  "image": "prod/p93.jpg",
   "price": null,
   "brand": "HealthyLife",
   "presentation": "Complemento nutricional líquido",
@@ -2124,14 +2124,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Saw Palmetto"
   ],
-  "ficha": "img/ficha/f93.jpg"
+  "ficha": "ficha/f93.jpg"
  },
  {
   "id": 94,
   "name": "Melatonina Sleep Support",
   "category": "Bienestar",
   "description": "Gomitas con 1 mg de melatonina para descansar mejor.",
-  "image": "img/prod/p94.jpg",
+  "image": "prod/p94.jpg",
   "price": null,
   "brand": "Living Natural",
   "presentation": "90 gomitas · Sabor uva · Solo adultos +18",
@@ -2146,14 +2146,14 @@ window.PRODUCTOS = [
   "ingredients": [
    "Melatonina"
   ],
-  "ficha": "img/ficha/f94.jpg"
+  "ficha": "ficha/f94.jpg"
  },
  {
   "id": 95,
   "name": "Té Verde Adelgazante",
   "category": "Control de peso",
   "description": "Té verde con diente de león y boldo para activar el metabolismo.",
-  "image": "img/prod/p95.jpg",
+  "image": "prod/p95.jpg",
   "price": null,
   "brand": "",
   "presentation": "Líquido",
@@ -2171,6 +2171,7 @@ window.PRODUCTOS = [
    "Diente de león",
    "Boldo"
   ],
-  "ficha": "img/ficha/f95.jpg"
+  "ficha": "ficha/f95.jpg"
  }
 ];
+
