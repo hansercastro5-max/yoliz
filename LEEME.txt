@@ -1,0 +1,37 @@
+TIENDA WEB DE PRODUCTOS NATURALES
+================================
+
+ARCHIVOS
+- index.html: página principal.
+- styles.css: diseño adaptable a celular y computadora.
+- script.js: búsqueda, filtros, carrito y pedido por WhatsApp.
+- productos.js: nombres, categorías y descripciones del catálogo.
+- img/producto-XX.jpeg: capturas originales. img/prod/: imágenes recortadas (4:5) que usa la tienda.
+
+CÓMO ABRIR
+1. Descomprime tienda_natural_web.zip en una carpeta.
+2. Abre index.html con Chrome o Edge.
+3. Puedes probar el catálogo, el buscador y el carrito localmente.
+
+ANTES DE PUBLICAR
+1. El número de WhatsApp de Ecuador ya está configurado en script.js: 593961117591.
+2. Abre productos.js y corrige los nombres, categorías y descripciones. Algunos nombres son aproximados porque varias imágenes son capturas de anuncios.
+3. Añade los precios si quieres mostrarlos; ahora aparece “Precio: consultar”.
+4. Revisa que tienes permiso para usar las imágenes y que las descripciones de productos sean correctas.
+
+PARA COMPARTIR COMO PÁGINA WEB
+Puedes publicar la carpeta en Netlify (arrastrando la carpeta descomprimida al área de publicación manual de Netlify Drop) o usar GitHub Pages. Después comparte la URL pública.
+Nota: esta es una tienda estática de demostración; el pedido se envía a WhatsApp. No procesa pagos ni guarda pedidos en una base de datos.
+
+
+PANEL ADMINISTRATIVO (DEMOSTRACIÓN)
+===================================
+- Abre admin.html para entrar al panel.
+- Usuario: admin
+- Contraseña de demostración: Raiz2026!
+- Puedes agregar, editar y eliminar productos, con nombre, categoría, descripción, precio opcional e imagen.
+- Los cambios se guardan en localStorage de ese navegador y se ven en la tienda abierta en ese mismo navegador.
+
+IMPORTANTE SOBRE SEGURIDAD Y PUBLICACIÓN
+----------------------------------------
+Este panel es un prototipo de demostración. El usuario y la contraseña están en el JavaScript y NO protegen realmente la administración frente a visitantes que inspeccionen el código. Además, los cambios guardados en localStorage no se sincronizan entre distintos dispositivos ni navegadores. Para una tienda pública real con acceso privado y productos sincronizados en cualquier dispositivo, hay que conectar autenticación y base de datos (por ejemplo, Supabase o Firebase) y guardar las imágenes en almacenamiento en la nube. No uses datos sensibles ni publiques esta versión como si tuviera seguridad real.
